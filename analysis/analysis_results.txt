@@ -1,0 +1,44 @@
+EMPLOYEE DATA ANALYSIS
+======================
+Total employees: 32
+Average salary: $76,187.50
+Highest salary: $115,000.00
+Lowest salary: $54,000.00
+Average age: 34.1 years
+Average experience: 9.0 years
+
+Department-wise employee count:
+Department
+Engineering    9
+Finance        6
+HR             6
+Marketing      5
+Sales          6
+
+Department-wise average salary:
+Department
+Finance        $86,333.33
+Engineering    $85,333.33
+Sales          $70,000.00
+HR             $67,000.00
+Marketing      $66,000.00
+
+Gender-wise employee count:
+Gender
+Female    17
+Male      15
+
+Performance-score count:
+Performance_Score
+3     7
+4    16
+5     9
+Average performance score: 4.06 out of 5
+
+Experience-salary correlation: 0.84
+
+KEY FINDINGS
+Largest department by employee count: Engineering (9 employees).
+Highest average salary by department: Finance ($86,333.33).
+Experience and salary have a strong positive relationship in this sample.
+Correlation describes association and does not establish cause and effect.
